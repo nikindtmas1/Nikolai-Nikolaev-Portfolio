@@ -100,8 +100,13 @@ body {
     padding: 30px;
     background: #f5f5f5;
     border-top: 10px solid #778492;
+    margin-left: 10px;
   }
  
+  .header .container-clearfix {
+    float: right;
+    margin-right: 191px;
+  }
   
   .header .profile-image {
     margin-right: 30px;  
