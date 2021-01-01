@@ -1,1 +1,2 @@
-# Nikolay Nikolaev-Portfolio
+# Nikolay Nikolaev
+# Sudent Software Engineer - SoftUni
