@@ -41,11 +41,14 @@
 </table>
 
 <h2> Diplomas </h2>
+<table>
+  <tr>
+    <td>Diploma</td>
+    <td>Link</td>
+  </tr>
+  <tr>
+    <td>JS Developer</td>
+    <td><a href=""> Link </a></td>
+  </tr>
+</table>
 
-<td>
-
-| **Diploma**      | **Link**                |
-| ---------------- | ------------------------|
-| JS Developer     | <a href=""> Link </a>   |
-
-</td>
