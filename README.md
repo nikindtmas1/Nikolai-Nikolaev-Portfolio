@@ -14,7 +14,7 @@
 <table>
   <tr>
     <th>JavaScript</th>
-    <th></th>
+    <td></td>
   </tr>
   <tr>
     <td>Course</td>
