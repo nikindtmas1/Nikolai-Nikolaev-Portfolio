@@ -226,6 +226,11 @@ body {
     padding-bottom: 60px;
   }
 
+  .interests .section-inner {
+    background-color: #fff;
+    padding: 30px;
+  }
+
   /*------ Footer ------*/
   .footer {
     padding: 30px;
