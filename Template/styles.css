@@ -221,6 +221,11 @@ body {
     font-size: 24px;
   }
 
+  .interests {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
   /*------ Footer ------*/
   .footer {
     padding: 30px;
