@@ -10,15 +10,15 @@
 <br/>
 <br/>
 
-<h2> Certificates </h2>
+<h2>Certificates</h2>
 <table>
   <tr>
     <th>JavaScript</th>
     <td></td>
   </tr>
   <tr>
-    <td>Course</td>
-    <td>Link</td>
+    <td><strong>Course</strong></td>
+    <td><strong>Link</strong></td>
   </tr>
   <tr>
     <td><a href="https://softuni.bg/trainings/2904/programming-basics-with-javascript-april-2020" >Programming Basics with JS</a></td>
@@ -30,15 +30,15 @@
   </tr>
   <tr>
     <td><a href="https://softuni.bg/modules/76/js-advanced/1265">JS Advanced</a></td>
-    <td><a href=""> Link</a></td>
+    <td><a href="">Link</a></td>
   </tr>
 </table>
 
 <h2> Diplomas </h2>
 <table>
   <tr>
-    <td>Diploma</td>
-    <td>Link</td>
+    <td><strong>Diploma</strong></td>
+    <td><strong>Link</strong></td>
   </tr>
   <tr>
     <td>JS Developer</td>
