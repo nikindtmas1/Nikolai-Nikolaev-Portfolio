@@ -16,10 +16,6 @@ body {
 
   a {
     color: #3AAA64;
-    -webkit-transition: all 0.4s ease-in-out;
-    -moz-transition: all 0.4s ease-in-out;
-    -ms-transition: all 0.4s ease-in-out;
-    -o-transition: all 0.4s ease-in-out;
   }
   
   a:hover {
@@ -33,10 +29,6 @@ body {
   }
 
   .btn, a.btn {
-    -webkit-transition: all 0.4s ease-in-out;
-    -moz-transition: all 0.4s ease-in-out;
-    -ms-transition: all 0.4s ease-in-out;
-    -o-transition: all 0.4s ease-in-out;
     font-family: 'Montserrat', arial, sans-serif;
     padding: 8px 16px;
     font-weight: bold;
@@ -169,24 +161,6 @@ body {
   font-size: 24px;
 }
 
-  .projects {
-    padding-top: 60px;
-    padding-bottom: 60px;
-  }
-
-  
-  .project .section-inner {
-    background: #fff;
-    padding: 30px;
-  }
-
-  .project .heading {
-    margin-top: 0;
-    margin-bottom: 30px;
-    color: #545e69;
-    font-size: 24px;
-  }
-
   .education {
     padding-top: 60px;
     padding-bottom: 60px;
@@ -221,15 +195,40 @@ body {
     font-size: 24px;
   }
 
+  .projects {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  
+  .project .section-inner {
+    background: #fff;
+    padding: 30px;
+  }
+
+  .project .heading {
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: #545e69;
+    font-size: 24px;
+  }
+
   .interests {
     padding-top: 60px;
     padding-bottom: 60px;
   }
 
   .interests .section-inner {
-    background-color: #fff;
+    background: #fff;
     padding: 30px;
   }
+
+  .interests .heading {
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: #545e69;
+    font-size: 24px;
+  }
+
 
   /*------ Footer ------*/
   .footer {
