@@ -1,0 +1,13 @@
+
+nav {
+    background: #234465;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none; 
+}
