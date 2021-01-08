@@ -1,13 +1,28 @@
 
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
 nav {
     background: #234465;
+    padding: 15px;
 }
 
 nav li {
+    padding:0 20px;
     display: inline-block;
 }
 
 nav li a {
     color: white;
     text-decoration: none; 
+}
+
+.header .container .profile-content {
+    display: inline-block;
+}
+
+.btn-cta-primary {
+    float: right;
 }
