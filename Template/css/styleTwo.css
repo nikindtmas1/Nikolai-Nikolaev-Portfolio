@@ -119,3 +119,7 @@ border-radius: 8px;
     word-spacing: 5px; 
     text-indent: 40px;
 }
+
+.education .items li {
+    display: inline-block;
+}
