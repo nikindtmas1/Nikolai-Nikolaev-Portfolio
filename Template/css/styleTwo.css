@@ -139,6 +139,7 @@ border-radius: 8px;
     border-radius: 5px; 
     margin-top: 10px;
     padding: 8px;
+    text-decoration: none;
   }
     .licenses .section-inner {
     background: #fff;
