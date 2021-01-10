@@ -186,6 +186,7 @@ border-radius: 8px;
   }
 
 
+
   /*-----Footer----*/
 
   .footer {
@@ -213,3 +214,10 @@ border-radius: 8px;
     background: #234465;
     color: #fff;
   }
+
+  /*-----html contacts------*/
+
+  .contacts {
+      font-size: 20px;
+  }
+
