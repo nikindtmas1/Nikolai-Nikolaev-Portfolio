@@ -200,3 +200,16 @@ border-radius: 8px;
     color: #545e69;
     font-size: 24px;
   }
+
+  .footer a{
+    text-decoration: none;
+    background:silver; 
+    border-radius: 5px; 
+    margin-top: 10px;
+    padding: 3px;
+  }
+
+  .footer a:hover {
+    background: #234465;
+    color: #fff;
+  }
