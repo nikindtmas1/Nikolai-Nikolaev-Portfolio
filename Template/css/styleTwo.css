@@ -122,3 +122,68 @@ border-radius: 8px;
     text-indent: 40px;
 }
 
+.education .section-inner {
+    background: #fff;
+    padding: 30px;
+  }
+
+  .education .heading {
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: #545e69;
+    font-size: 24px;
+  }
+
+.licenses .section-inner {
+    background: #fff;
+    padding: 30px;
+  }
+
+  .licenses .heading {
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: #545e69;
+    font-size: 24px;
+  }
+  
+  .project .section-inner {
+    background: #fff;
+    padding: 30px;
+  }
+
+  .project .heading {
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: #545e69;
+    font-size: 24px;
+  }
+
+
+
+  .interests .section-inner {
+    background: #fff;
+    padding: 30px;
+  }
+
+  .interests .heading {
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: #545e69;
+    font-size: 24px;
+  }
+
+
+  /*-----Footer----*/
+
+  .footer {
+    padding: 30px;
+    background: #f5f5f5;
+    border-top: 10px solid #778492; 
+  }
+
+  .footer .heading {
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: #545e69;
+    font-size: 24px;
+  }
