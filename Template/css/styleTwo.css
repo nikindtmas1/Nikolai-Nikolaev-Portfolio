@@ -134,6 +134,12 @@ border-radius: 8px;
     font-size: 24px;
   }
 
+  .education .items a {
+    background:silver; 
+    border-radius: 5px; 
+    margin-top: 10px;
+    padding: 8px;
+  }
     .licenses .section-inner {
     background: #fff;
     padding: 30px;
