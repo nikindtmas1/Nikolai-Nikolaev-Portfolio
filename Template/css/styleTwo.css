@@ -134,7 +134,7 @@ border-radius: 8px;
     font-size: 24px;
   }
 
-.licenses .section-inner {
+    .licenses .section-inner {
     background: #fff;
     padding: 30px;
   }
@@ -167,8 +167,8 @@ border-radius: 8px;
 
   .interests .heading {
     margin-top: 0;
-    margin-bottom: 30px;
     color: #545e69;
+    margin-bottom: 30px;
     font-size: 24px;
   }
 
