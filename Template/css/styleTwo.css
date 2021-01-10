@@ -141,6 +141,12 @@ border-radius: 8px;
     padding: 8px;
     text-decoration: none;
   }
+
+  .education .items a:hover {
+      background: #234465;
+      color: #fff;
+  }
+
     .licenses .section-inner {
     background: #fff;
     padding: 30px;
