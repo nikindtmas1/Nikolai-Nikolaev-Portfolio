@@ -158,7 +158,20 @@ border-radius: 8px;
     color: #545e69;
     font-size: 24px;
   }
-  
+
+.licenses .items a {
+  background:silver; 
+    border-radius: 5px; 
+    margin-top: 10px;
+    padding: 8px;
+    text-decoration: none;
+}
+
+.licenses .items a:hover {
+  background: #234465;
+  color: #fff;
+}
+
   .project .section-inner {
     background: #fff;
     padding: 30px;
