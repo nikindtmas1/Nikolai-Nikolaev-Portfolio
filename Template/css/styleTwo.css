@@ -217,9 +217,10 @@ border-radius: 8px;
 
   /*-----html contacts------*/
 
-  .contacts .ctn {
+  .contacts .ctn p{
       font-size: 20px;
       margin: 20px;
+      padding: 10px;
   }
 
   .cours a {
