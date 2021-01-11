@@ -39,8 +39,14 @@ border-radius: 8px;
   }
 
 .header .container .profile-image {
-
-    margin-left: 20px;
+  width: 150px; 
+  height: 170px; 
+  border-radius: 50%;
+  margin-left: 20px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .header .container .profile-content {
@@ -228,7 +234,7 @@ border-radius: 8px;
 
   .footer .headA a {
     text-decoration: none;
-    background:silver; 
+    background: coral;
     border-radius: 5px; 
     margin-top: 10px;
     padding: 8px;
