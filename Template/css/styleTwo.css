@@ -221,3 +221,15 @@ border-radius: 8px;
       font-size: 20px;
   }
 
+  .cours a {
+    text-decoration: none;
+    background: silver;
+    padding: 5px;
+    border-radius: 4px;
+    margin: 30px;
+  }
+
+  .cours a:hover {
+    background: #234465;
+    color: #fff;
+  }
