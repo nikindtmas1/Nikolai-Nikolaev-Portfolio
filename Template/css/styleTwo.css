@@ -256,10 +256,16 @@ border-radius: 8px;
   /*-----html contacts------*/
 
    .section-inner .ctn {
-    background: white;
+    background: #fff;
     margin-left: 15px;
     padding: 10px;
     font-size: 22px;
+  }
+
+  .news .section-inner  {
+    margin: 30px;
+    background: #fff;
+    padding: 30px;
   }
 
   .cours a {
