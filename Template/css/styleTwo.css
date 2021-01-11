@@ -255,10 +255,10 @@ border-radius: 8px;
 
   /*-----html contacts------*/
 
-   .section-inner .ctn {
+  .ctn .section-inner  {
     background: #fff;
-    margin-left: 15px;
-    padding: 10px;
+    margin: 30px;
+    padding: 30px;
     font-size: 22px;
   }
 
