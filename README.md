@@ -1,6 +1,6 @@
 <h1 align="center">Nikolay Nikolaev</h1>
   
-<h2 align="center">Sudent Software Engineer</h2>
+<h2 align="center">Student Software Engineer</h2>
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses"> ![SoftUni logo][logo] </a>
 
