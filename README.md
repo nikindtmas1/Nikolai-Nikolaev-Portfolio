@@ -30,11 +30,11 @@
   </tr>
   <tr>
     <td><a href="https://softuni.bg/modules/76/js-advanced/1265">JS Advanced</a></td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://softuni.bg/users/profile/trainings/nikolainikolaev">Link</a></td>
   </tr>
    <tr>
-    <td><a href="https://softuni.bg/modules/76/js-advanced/1265">JS Applications</a></td>
-    <td><a href="">Link</a></td>
+    <td><a href="https://softuni.bg/trainings/3218/js-applications-february-2021/internal">JS Applications</a></td>
+    <td><a href="https://softuni.bg/users/profile/certificates?username=NikolaiNikolaev">Link</a></td>
   </tr>
 </table>
 
