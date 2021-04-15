@@ -32,6 +32,10 @@
     <td><a href="https://softuni.bg/modules/76/js-advanced/1265">JS Advanced</a></td>
     <td><a href="">Link</a></td>
   </tr>
+   <tr>
+    <td><a href="https://softuni.bg/modules/76/js-advanced/1265">JS Applications</a></td>
+    <td><a href="">Link</a></td>
+  </tr>
 </table>
 
 <h2> Diplomas </h2>
