@@ -50,3 +50,6 @@
   </tr>
 </table>
 
+<h2> My-Spa-Menu </h2>
+<h3> Sample single page application project</h3>
+<a href="https://github.com/nikindtmas1/My-Spa-Menu"></a>
