@@ -51,12 +51,10 @@
 </table>
 
 <h2> My-Spa-Menu </h2>
-<h3> Sample single page application project
+<h3> Sample Single Page Application Project </h3>
 <table>
   <tr>
     <td><a href="https://github.com/nikindtmas1/My-Spa-Menu"> Link </a></td>
   </tr>
 </table>
-</h3>
-
 
