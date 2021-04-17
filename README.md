@@ -34,7 +34,7 @@
   </tr>
    <tr>
     <td><a href="https://softuni.bg/trainings/3218/js-applications-february-2021/internal">JS Applications</a></td>
-    <td><a href="https://softuni.bg/users/profile/certificates?username=NikolaiNikolaev">Link</a></td>
+    <td><a href="https://softuni.bg/certificates/details/102336/fe480e1e">Link</a></td>
   </tr>
 </table>
 
