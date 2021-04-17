@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td><a href="https://softuni.bg/trainings/3133/js-fundamentals-september-2020">Programming Fundamentals with JS</a></td>
-    <td><a href="https://softuni.bg/certificates/details/94652/144de3cc">Link</a></td>
+    <td><a href="https://softuni.bg/certificates/details/96877/ca548314">Link</a></td>
   </tr>
   <tr>
     <td><a href="https://softuni.bg/modules/76/js-advanced/1265">JS Advanced</a></td>
