@@ -50,6 +50,8 @@
   </tr>
 </table>
 
+<h2> Projects </h2>
+
 <h2> My-Spa-Menu </h2>
 <h3> Sample Single Page Application Project </h3>
 <table>
