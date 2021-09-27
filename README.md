@@ -61,7 +61,7 @@
 </table>
 
 <h2> My-Cubic </h2>
-<h3> JS Web Multipage Application Project </h3>
+<h3> JS Web Multi Page Application Project </h3>
 <table>
   <tr>
     <td><a href="https://github.com/nikindtmas1/My-Cubic"> Link </a></td>
