@@ -78,7 +78,7 @@
 
 <table>
   <tr>
-    <th>JavaScript</th>
+    <th>Projects</th>
     <td></td>
   </tr>
   <tr>
