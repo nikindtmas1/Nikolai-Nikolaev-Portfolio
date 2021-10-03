@@ -78,10 +78,6 @@
 
 <table>
   <tr>
-    <th>Projects</th>
-    <td></td>
-  </tr>
-  <tr>
     <td><strong>Project Name</strong></td>
     <td><strong>Project Type</strong></td>
     <td><strong>Link</strong></td>
