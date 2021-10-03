@@ -52,30 +52,6 @@
 
 <h2> Projects </h2>
 
-<h2> My-Spa-Menu </h2>
-<h3> Sample Single Page Application Project </h3>
-<table>
-  <tr>
-    <td><a href="https://github.com/nikindtmas1/My-Spa-Menu"> Link </a></td>
-  </tr>
-</table>
-
-<h2> My-Cubic </h2>
-<h3> JS Web Multi Page Application Project </h3>
-<table>
-  <tr>
-    <td><a href="https://github.com/nikindtmas1/My-Cubic"> Link </a></td>
-  </tr>
-</table>
-
-<h2> My-Cubic-MongoDB </h2>
-<h3> JS Web Multi Page Application Project With MongoDB Database</h3>
-<table>
-  <tr>
-    <td><a href="https://github.com/nikindtmas1/My-Cubic-MongoDb"> Link </a></td>
-  </tr>
-</table>
-
 <table>
   <tr>
     <td><strong>Project Name</strong></td>
