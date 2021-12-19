@@ -36,6 +36,10 @@
     <td><a href="https://softuni.bg/trainings/3218/js-applications-february-2021/internal">JS Applications</a></td>
     <td><a href="https://softuni.bg/certificates/details/102336/fe480e1e">Link</a></td>
   </tr>
+     <tr>
+    <td><a href="https://softuni.bg/trainings/3575/reactjs-november-2021">ReactJS</a></td>
+    <td><a href="https://softuni.bg/certificates/details/122114/666ea40d">Link</a></td>
+  </tr>
 </table>
 
 <h2> Diplomas </h2>
